@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Acer\\Desktop\\SeniorProject\\TripPlannerAPI\\TripPlannerAPI.csproj": {}
+    "c:\\Users\\Acer\\Desktop\\SeniorProject\\TripPlannerAPI\\TripPlannerAPI.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Acer\\Desktop\\SeniorProject\\TripPlannerAPI\\TripPlannerAPI.csproj": {
+    "c:\\Users\\Acer\\Desktop\\SeniorProject\\TripPlannerAPI\\TripPlannerAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Acer\\Desktop\\SeniorProject\\TripPlannerAPI\\TripPlannerAPI.csproj",
+        "projectUniqueName": "c:\\Users\\Acer\\Desktop\\SeniorProject\\TripPlannerAPI\\TripPlannerAPI.csproj",
         "projectName": "TripPlannerAPI",
-        "projectPath": "C:\\Users\\Acer\\Desktop\\SeniorProject\\TripPlannerAPI\\TripPlannerAPI.csproj",
+        "projectPath": "c:\\Users\\Acer\\Desktop\\SeniorProject\\TripPlannerAPI\\TripPlannerAPI.csproj",
         "packagesPath": "C:\\Users\\Acer\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Acer\\Desktop\\SeniorProject\\TripPlannerAPI\\obj\\",
+        "outputPath": "c:\\Users\\Acer\\Desktop\\SeniorProject\\TripPlannerAPI\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Acer\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -47,6 +47,10 @@
             "Microsoft.AspNetCore.OpenApi": {
               "target": "Package",
               "version": "[9.0.9, )"
+            },
+            "Pomelo.EntityFrameworkCore.MySql": {
+              "target": "Package",
+              "version": "[9.0.0, )"
             }
           },
           "imports": [
