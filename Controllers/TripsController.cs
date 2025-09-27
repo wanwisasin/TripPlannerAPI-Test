@@ -32,6 +32,7 @@ namespace TripPlannerAPI.Controllers
 
             return Ok(trips);
         }
+        
 
         [HttpPost]
         public IActionResult CreateTrip([FromBody] Trip trip)
