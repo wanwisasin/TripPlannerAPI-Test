@@ -7,10 +7,10 @@
 
 # Debug  (ข้อ 2.4)
 
-## ขั้นตอนการ Debug
+## Debug
 1. ตั้ง Breakpoint ที่ `return Ok(trips);` TripsController.cs บรรทัด 33
 2. Run Debug (F5)
-3. เรียก API: `https://localhost:5001/api/trips?destination=Chiang&active=true&limit=2`
+3. เรียก API: `http://localhost:5003/api/trips?destination=Chiang&active=true&limit=2`
 
 ## Add Watch
 - `trips.Count`
